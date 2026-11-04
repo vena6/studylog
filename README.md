@@ -10,4 +10,4 @@
 - frontend: 화면을 만드는 HTML, CSS, JS 파일
 - backend: 내부 기능을 만드는 Java 파일
 - analytics: 기록된 내용을 통계로 계산하는 Python 파일
-- docs: 기획서
+- docs: 기획서dddd
